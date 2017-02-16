@@ -10,6 +10,8 @@ View live at https://prof-rossetti.github.io/crud-app-beginnings/.
 
 For step-by-step reference, see commit history at https://github.com/prof-rossetti/crud-app-beginnings/commits/master.
 
+For a screencast of the development process, see https://www.youtube.com/playlist?list=PLwjSYkiszsC1Hm7ucmZE7deuQZWZpcxvD.
+
 ## Contributing
 
 Download this repository and navigate to it:
